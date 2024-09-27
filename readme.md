@@ -3,3 +3,12 @@
 Projeto do mundo da estrutura de dados e como todos seus tópicos funcionam em GoLang.
 
 - [Algoritmos](algoritmo/algoritmo.md)
+- [Algoritmo Polinominal](algoritmoPolimonial/algPolimonial.md)
+- [Algoritmo Constante](algoritmosConstantes/algConstante.md)
+- [Algoritmo Linear](algoritmosLineares/algLinear.md)
+- [Análise](analise/analise.md)
+- [Array](array/array.md)
+- [Complexidade de Tempo / Time Complexity](complexidadeTempo/tempo.md)
+- [DSA](DSA/dsa.md)
+- [Notações Assintóticas](notaçõesAssintóticas/notações.md)
+- [NotaçõesBigO](notaçõesBigO/BigO.md)
