@@ -10,6 +10,7 @@ Projeto do mundo da estrutura de dados e como todos seus tópicos funcionam em G
 - [Array](array/array.md)
 - [Complexidade de Tempo / Time Complexity](complexidadeTempo/tempo.md)
 - [DSA](DSA/dsa.md)
+- [Lista ligada / Linked list](listaligada/listaligada.md)
 - [Notações Assintóticas](notaçõesAssintóticas/notações.md)
 - [NotaçõesBigO](notaçõesBigO/BigO.md)
 - [Slice](array/arraySlice.md)
