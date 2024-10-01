@@ -5,7 +5,7 @@ Explicando usando um exemplo, é uma "caixa" de chocolates em que todos os choco
 
 ## Exemplo
 
-[] arr ->  [2,5,10,7]
+[] array ->  [2,5,10,7]
 
 - O index começa em 0 indo até o tamanho do array -1
 - Cada item dentro do array pode ser definido pelo sua posição
