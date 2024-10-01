@@ -12,3 +12,4 @@ Projeto do mundo da estrutura de dados e como todos seus tópicos funcionam em G
 - [DSA](DSA/dsa.md)
 - [Notações Assintóticas](notaçõesAssintóticas/notações.md)
 - [NotaçõesBigO](notaçõesBigO/BigO.md)
+- [Slice](array/arraySlice.md)
