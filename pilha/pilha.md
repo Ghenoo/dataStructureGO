@@ -9,6 +9,6 @@ Imagine que você está lavando uma louça, sempre você irá pegar o último pr
 <div align="center"><img src="pilha.png"></div>
 
 - O *TOP* sempre irá apontar para o último inserido.
-- O *POP* sempre irá remover o újltimo que foi inserido.
+- O *POP* sempre irá remover o último que foi inserido.
 
 <div align="center"><img src="pop.png"></div>
